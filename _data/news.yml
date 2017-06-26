@@ -1,50 +1,50 @@
 - date: 12. April 2016
   headline: "I was invited to give a talk at <a href='http://www.affectiva.com/'>Affectiva, Inc.</a> on <strong> Affect-Aware Social Robot Tutors</strong>"
-  image: <img src='images/affectiva.jpg' height=35% width=35%>
+  image: <img src='images/affectiva.jpg'> 
   
 - date: 5. March 2016
   headline: "I remotely moderated the <a href='http://www.hripioneers.info/hri16/index.html'>2016 HRI Pioneers Workshop</a> Panel. Thanks to all the attendees and panel participants for their insightful questions and answers!"
-  image: <img src='images/hrip16.png' height=50% width=50%>
+  image: <img src='images/hrip16_square.png'>
 
 - date: 15. November 2015
   headline: "Paper Accepted! <a href='resources/Spaulding_AAMAS16.pdf'>Affect-aware Student Models for Robot Tutors</a> was accepted as a full paper at <a href='http://sis.smu.edu.sg/aamas2016'>AAMAS 2016.</a> <a href='resources/LfW_AAMAS16_2pg.pdf'>Learning from The Wizard: Programming Social Interaction through Teleoperated Demonstrations</a> 
                           was also accepted as an Extended Abstract."
-  image: <img src='images/aamas16.jpeg' height=35% width=35%>
+  image: <img src='images/aamas16.jpeg'>
 
 - date: 15. November 2015
   headline: "Paper Accepted! <a href='resources/AAAI2016_SAR.pdf'>Affective Personalization of a Social Robot Tutor for Children’s Second Language Skills</a> 
                       was accepted as a full paper at <a href='http://www.aaai.org/Conferences/AAAI/aaai16.php'></a>AAAI 2016."
-  image: <img src='images/aaai_logo.jpeg' height=35% width=35%>
+  image: <img src='images/aaai_logo.jpeg'>
 
 - date: 30. August 2015
   headline:  "Paper Accepted! My <a href='resources/Spaulding_AAAI_FSS15.pdf'>extended abstract</a> 
                     was accepted to the <a href='http://www.aaai.org/Symposia/Fall/fss15.php'></a>2015 AAAI Fall Symposium on Artificial Intelligence for Human-Robot Interaction."
-  image: <img src='images/aaai_logo.jpeg' height=35% width=35%>
+  image: <img src='images/aaai_logo.jpeg'>
 
 - date: 5. June 2015
   headline: "I have completed my <a href='resources/Spaulding_SM_Thesis.pdf'>Master's Thesis</a> and was awarded an S.M. Degree in Media Arts & Sciences!</p>"
-  image:  <img src='images/ML_logo.png' height=35% width=35%>
+  image:  <img src='images/ML_logo.png'>
 
 - date: 15. April 2015
   headline: "I was invited to speak at the 2015 Media Lab Spring Member's Event! My talk covered recent advances in Social Robotics and current research in the <a href='http://robotic.media.mit.edu'>Personal Robots Group</a>"
-  image: <img src='images/ML_logo.png' height=35% width=35%>
+  image: <img src='images/ML_logo.png'>
 
 - date: 5. March 2015
   headline:  "I attended <a href='http://humanrobotinteraction.org/2015/'>HRI 2015</a>  and the <a href='http://www.hripioneers.info/hri15/'>2015 HRI Pioneers</a> workshop in Portland, Oregon. I was elected to the organizing committee for the <a href='http://www.hripioneers.info/hri16/index.html'>2016 HRI Pioneers Workshop</a> as the Panel Chair!"
-  image: <img src='images/hri2015.png' width=50%>
+  image: <img src='images/hri2015.png'>
 
 - date: 5. January 2015
   headline:  "My <a href='resources/Spaulding_HRIPioneers15.pdf'>short paper submission</a> describing my Master's Thesis work was accepted to the <a href='http://www.hripioneers.info/hri15/'>2015 HRI Pioneers</a> workshop. HRI Pioneers is a highly selective workshop held in conjunction with <a href='http://humanrobotinteraction.org/2015/'>HRI 2015</a> that 'seeks to foster creativity and collaboration surrounding key challenges in human-robot interaction and empower students early in their academic careers'"
-  image: <img src='images/aaai_logo.jpeg' height=35% width=35%>
+  image: <img src='images/aaai_logo.jpeg'>
 
 - date: 13. November 2014
   headline: "I attended the <a href='http://www.aaai.org/Symposia/Fall/fss14symposia.php#fs01'>AAAI Fall Symposium on Artificial Intelligence for Human-Robot Interaction</a> in Arlington, VA where I gave a lightning talk on my <a href='resources/Spaulding_AAAI_FSS14.pdf'>Extended Abstract</a>."
-  image: <img src='images/aaai_logo.jpeg' height=35% width=35%>
+  image: <img src='images/aaai_logo.jpeg'>
 
 - date: 1. March 2014
   headline: "I traveled to Bielefeld, Germany to present our paper entitled <strong>'Personalizing Robot Tutors to Individuals' Learning Differences'</strong> at the <a href='http://humanrobotinteraction.org/2014/'>9th ACM/IEEE Conference on Human-Robot Interaction</a> (HRI 2014)."
-  image:  <img src='images/hri2014.jpeg' height=65% width=65%>
+  image:  <img src='images/hrip14_square.png'>
 
 - date: 1. September 2013
   headline: "I moved to Boston to start graduate school! I am currently a Graduate Research Assistant advised by Cynthia Breazeal in the Personal Robots Group at the MIT Media Lab."
-  image: <img src='images/prg_logo.png' height=40% width=40%>
+  image: <img src='images/prg_logo.png'>
