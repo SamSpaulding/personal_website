@@ -1,0 +1,182 @@
+- title: "Learning from the Wizard: Programming Social Interaction via Teleoperated Demonstrations"
+  code: C6  
+  description: ""
+  authors: W. Bradley Knox, <strong>Samuel Spaulding</strong>, Cynthia Breazeal
+  tag: lfw
+  venue: Proceedings of the 15th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2016) - Extended Abstracts
+  year: 2016
+  link:
+    url: resources/LfW_AAMAS16_2pg.pdf
+    display:  Here!
+  highlight: 1
+  news2: 
+
+- title: Affect-Aware Student Models for Robot Tutors
+  code: C5
+  description: We show that compared to tablet games, social robots induce greater emotional expressivity in children, and demonstrate that this expressivity can be measured and analyzed to train more accurate student models.
+  authors: <strong>Samuel Spaulding</strong>, Goren Gordon, Cynthia Breazeal
+  tag: affect
+  venue: Proceedings of the 15th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2016)
+  year: 2016
+  link:
+    url: resources/Spaulding_AAMAS16.pdf
+    display: Download here!
+  highlight: 1
+
+- title: Lessons From Teachers on Performing HRI Studies with Young Children in Schools
+  code: C4
+  description: We present qualitative practical advice on conducting long-term HRI studies in school, based on interviews and surveys with teachers and administrators,
+  authors: Jacqueline Kory Westlund, Goren Gordon, <strong>Samuel Spaulding</strong>, Jin Joo Lee, Luke Plummer, Marayna Martinez, Madhurima Das, and Cynthia Breazeal.
+  tag: affect
+  venue: Proceedings of the 11th ACM/IEEE International Conference on Human-Robot Interaction - alt.HRI Presentations (alt.HRI 2016)
+  year: 2016
+  link:
+    url: resources/XXXX.pdf
+    display: Broken Link
+  highlight: 1
+
+- title: Affective Personalization of a Social Robot Tutor for Children's Second Language Skills
+  code: C3
+  image: tega.png
+  description: Robots that personalized their supportive behaviors to children's affective response were more able to keep the child engaged and happy over 8 weeks of interaction
+  authors: Goren Gordon, <strong>Samuel Spaulding</strong>, Jacqueline Kory Westlund, Jin Joo Lee, Luke Plummer, Marayna Martinez, Madhurima Das, and Cynthia Breazeal
+  tag: affect
+  venue: Proceedings of the 30th AAAI Conference on Artificial Intelligence (AAAI 2016)
+  year: 2016
+  link:
+    url: resources/AAAI2016_SAR.pdf
+    display: Download here
+  highlight: 1 
+
+- title: Personalizing Robot Tutors to Individuals' Learning Differences
+  code: C2
+  image: keepon_from_movie.png
+  description: Content personalization from a robot improves learning gains
+  authors: Dan Leyzberg, <strong>Samuel Spaulding</strong>, and Brian Scassellati.
+  tag: personalization
+  venue: Proceedings of the 9th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2014)
+  year: 2014
+  link:
+    url: resources/Personalization_HRI14.pdf
+    display: Download here
+  highlight: 1  
+
+- title: The Physical Presence of a Robot Tutor Increases Cognitive Learning Gains
+  code: C1
+  image: keepon_from_movie.png
+  description: People learned more from the lessons given by a physical robot compared ti a video of the same robot or a disembodied voice giving the same lessons. 
+  authors: Dan Leyzberg, <strong>Samuel Spaulding</strong>, Mariya Toneva, and Brian Scassellati.
+  tag: personalization
+  venue: Proceedings of the 34th Annual Conference of the Cognitive Science Society (CogSci 2012)
+  year: 2012
+  link:
+    url: resources/CogSci2012.pdf
+    display: The Physical Presence of a Robot Tutor Increases Cognitive Learning Gains
+  highlight: 1  
+  
+- title: Learning Behavior Policies for Interactive Educational Play
+  code: W8
+  image: tega.png
+  description: Formulating social, educational gameplay as a planning problem.
+  authors: <strong>Samuel Spaulding</strong> and Cynthia Breazeal
+  tag: modeling
+  venue: Workshop on Mathematical Models, Algorithms, and Human-Robot Interaction (held at RSS 2017)
+  year: 2017
+  link:
+    url: resources/Spaulding_RSS_AlgoHRI.pdf
+  highlight: 1
+
+- title: Tega, A Social Robot
+  code: W7
+  image: tega.png
+  description: We built a new robot and made a video about it!
+  authors: Kory Westlund, J. M., Lee, J., Plummer, L., Faridi, F., Gray, J., Berlin, M., Quintus-Bosz, H., Harmann, R., Hess, M., Dyer, S., dos Santos, K., Adalgeirsson, S., Gordon, G., <strong>Spaulding, S.</strong>, Martinez, M., Das, M., Archie, M., Jeong, S., & Breazeal, C.
+  tag: affect
+  venue: 11th ACM/IEEE International Conference on Human-Robot Interaction - Video Presentations. (HRI 2016 Video Track)
+  year: 2016
+  link:
+    url: resources/XXXXX.pdf
+    display: Broken Link!
+  highlight: 1
+  awards: Best Video Nominee
+
+- title: Towards Affect-Awareness for Social Robots
+  code: W6
+  image: keepon_from_movie.png
+  description: We describe three levels of affective intelligence for social robots, outline the utility of each level, and sketch future work for robots to achieve each level.
+  authors: <strong>Samuel Spaulding</strong> and Cynthia Breazeal
+  tag: affect
+  venue: 2015 AAAI Fall Symposium on Artificial Intelligence for Human-Robot Interaction (AI-HRI 2015)
+  year: 2015
+  link:
+    url: resources/Spaulding_AAAI_FSS14.pdf
+    display: Download workshop paper!
+  highlight: 0
+
+- title: Learning a Second Language with a Socially Assistive Robot
+  code: W5
+  image: keepon_from_movie.png
+  description: Preliminary presentation of result from a long-term second-language learning study conducted over 8 weeks at a school in Lexington, MA.
+  authors: Jacqueline Kory Westlund*, Goren Gordon*, <strong>Samuel Spaulding</strong>, Jin Joo Lee, Luke Plummer, Marayna Martinez, Madhurima Das, and Cynthia Breazeal
+  tag: affect
+  venue: Proceedings of New Friends, The 1st International Conference on Social Robots in Therapy and Education
+  year: 2015
+  link:
+    url: resources/XXXXX.pdf
+    display: Broken Link!
+  highlight: 0
+
+- title: Affect and Inference in Bayesian Knowledge Tracing with a Robot Tutor
+  code: W4
+  image: keepon_from_movie.png
+  description: We describe an extension to BKT that uses real-time facial expression analysis to improve a robot tutor's inference of student knowledge.
+  authors: <strong>Samuel Spaulding</strong> and Cynthia Breazeal
+  tag: affect
+  venue: HRI Pioneers Workshop (held at HRI 2015)
+  year: 2015
+  link:
+    url: resources/Spaulding_HRIPioneers15.pdf
+    display: Download workshop paper!
+  highlight: 0
+
+- title: Exploring Child-Robot Tutoring Interactions with Bayesian Knowledge Tracing
+  code: W3
+  image: keepon_from_movie.png
+  description: We propose an extension to the popular Bayesian Knowledge Tracing (BKT) method for modeling student knowledge that leverages the embodied, interactive qualities of a robot tutor.
+  authors: <strong>Samuel Spaulding</strong> and Cynthia Breazeal
+  tag: affect
+  venue: 2014 AAAI Fall Symposium on Artificial Intelligence for Human-Robot Interaction (AI-HRI 2014)
+  year: 2014
+  link:
+    url: resources/Spaulding_AAAI_FSS14.pdf
+    display: Download workshop paper!
+  highlight: 0
+
+- title: "Learning Social Interaction from the Wizard: A Proposal"
+  code: W2
+  image: keepon_from_movie.png
+  description:
+    We propose a method of programming social interaction behavior via learning from teleoperated demonstrations
+  authors: W. Bradley Knox, <strong>Samuel Spaulding</strong> and Cynthia Breazeal
+  tag: lfw
+  venue: Proceedings of the 3rd Workshop on Machine Learning for Interactive Systems (held at AAAI 2014)
+  year: 2014
+  link:
+    url: resources/AAAI_MLIS_14.pdf
+    display: Download workshop paper!
+  highlight: 1
+
+- title: Animacy Perception and Mind Attribution in a Cognitive Architecture for Human-Robot Interaction
+  code: W1
+  image: keepon_from_movie.png
+  description:
+    Many aspects of social cognition are rooted in perceptual abilities that are highly tuned to social phenomena. This recent realization has implications for the design of cognitive architectures to support human-robot interaction.
+  authors: <strong>Samuel Spaulding</strong>, Cynthia Breazeal
+  tag: affect
+  venue: Proceedings of the Workshop on Cognitive Architectures for Human-Robot Interaction (held at HRI 2014)
+  year: 2014
+  link:
+    url: resources/HRI_CogArchWorkshop_14.pdf
+    display: Download here
+  highlight: 0
+  news2: This was my very first paper ever!

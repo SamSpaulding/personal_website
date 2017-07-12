@@ -1,0 +1,40 @@
+- title: Learning Behavior Policies for Interactive Educational Play
+  image: tega.png
+  summary: Building robots that model for seamless, educationally optimized educational play.
+  description:
+    Autonomous educational robots have the potential to deliver significant benefits via social interaction.
+    It is difficult to program robust models of interactive social behavior for educational co-play, in part because the interaction takes place in a high-dimensional state space with noisy state dynamics and sparse rewards. More- over, an effective tutor must balance multiple objectives across different time scales, such as teaching new words, acquiring information about the student to model their knowledge, and keeping the interaction fun and engaging.
+    This project aims to address the challenges of learning policies for educational co-play by developing game testbeds for learning algorithms, developing a computaitonal framework formulating educational co-play as a planning problem,
+    and using Gaussian Processes with a kernel based on concept-distance and phonetic similarity to model student knowledge.
+  collaborators: Samuel Spaulding, Huili Chen, and Cynthia Breazeal
+  tag: modeling
+
+- title: Affect-Aware Robots and Collaborative Storytelling
+  image: tega.png
+  summary: Building robots that can sense and understand human emotion to build better models and interact more empathically with children.
+  description:
+    We show that compared to tablet games, social robots induce greater emotional expressivity in children,
+    and demonstrate that this expressivity can be measured and analyzed to train more accurate student models.
+  collaborators: Samuel Spaulding, Cynthia Breazeal
+  tag: affect  
+
+- title: "Learning from the Wizard: Programming Social Interaction via Teleoperated Demonstrations"
+  image: dragonbot.jpeg
+  summary: Using Learning from Demonstration (LfD) to create autonomous behavior policies for social interaction tasks.
+  description: "Learning from Demonstration (LfD) is a popular and effective method for developing robot behaviors. Thus far, LfD has been most effective in producing physical, task-oriented behaviors (e.g. manipulation).
+    We adapted the LfD paradigm to create autonomous behavior policies for social interaction tasks.
+    Humans interact with a robot in two phases: during the demonstration phase, the robot is teleoperated in a Wizard-of-Oz style.
+    After sufficient demonstrations are collected, they are provided as input to algorithms that learn an autonomous policy based on the demonstrations. 
+    In the autonomous phase, humans interact with the robot that behaves according to the learned policy." 
+  collaborators: W. Bradley Knox, Samuel Spaulding, Cynthia Breazeal
+  tag: lfw
+  
+- title: Content Personalization and Robotic Presence in Human-Robot Tutoring Interactions
+  image: keepon_from_movie.png
+  summary: What factors allow social robots to most effectively teach students problem-solving skills?
+  description: "We investigated the efficacy of three different methods of tutoring instruction: verbal instruction, video agent, and embodied robot and found that, even when delivering identical content, students who received instruction from an embodied robot learned a puzzle task significantly more quickly than students in either of the other two cases. 
+    In addition, we developed a method for tracking a subject's proficiency at a complicated cognitive task composed of many unique skills via indirect observation.
+    Rather than prompting a student to demonstrate his/her proficiency at each skill for evaluation, the tutor generalizes probabilistic estimates of proficiency from observed gameplay, without interrupting the learning task.
+    Finally, we isolated the effect of personalized tutoring and found that even simple personalizations could produce significant learning gains during a 1hr. experiment"
+  collaborators: Dan Leyzberg, Sam Spaulding, and Cynthia Breazeal
+  tag: personalization
