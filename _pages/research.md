@@ -43,7 +43,7 @@ permalink: /research/
 
   {% for pub in site.data.pub_list %}
   {% if pub.tag == project.tag and pub.highlight == 1 %}
-  <p><strong><a href="{{ site.baseurl}}/{{ pub.link.url }}">{{ pub.title }}</a></strong></p>    
+  <p><strong><a href="{{ site.baseurl}}/{{ pub.link.url }}">{{ pub.title }}</a></strong> {{ pub.venue_code }}      </p> 
   {% endif %}  
   {% endfor %}
   

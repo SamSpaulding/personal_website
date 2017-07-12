@@ -4,6 +4,7 @@
   authors: W. Bradley Knox, <strong>Samuel Spaulding</strong>, Cynthia Breazeal
   tag: lfw
   venue: Proceedings of the 15th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2016) - Extended Abstracts
+  venue_code: AAMAS 2016 (Extended Abstracts)
   year: 2016
   link:
     url: resources/LfW_AAMAS16_2pg.pdf
@@ -17,6 +18,7 @@
   authors: <strong>Samuel Spaulding</strong>, Goren Gordon, Cynthia Breazeal
   tag: affect
   venue: Proceedings of the 15th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2016)
+  venue_code: AAMAS 2016
   year: 2016
   link:
     url: resources/Spaulding_AAMAS16.pdf
@@ -29,9 +31,10 @@
   authors: Jacqueline Kory Westlund, Goren Gordon, <strong>Samuel Spaulding</strong>, Jin Joo Lee, Luke Plummer, Marayna Martinez, Madhurima Das, and Cynthia Breazeal.
   tag: affect
   venue: Proceedings of the 11th ACM/IEEE International Conference on Human-Robot Interaction - alt.HRI Presentations (alt.HRI 2016)
+  venue_code: alt.HRI 2016
   year: 2016
   link:
-    url: resources/XXXX.pdf
+    url: resources/altHRI16_Lessons_Learned.pdf
     display: Broken Link
   highlight: 1
 
@@ -41,7 +44,8 @@
   description: Robots that personalized their supportive behaviors to children's affective response were more able to keep the child engaged and happy over 8 weeks of interaction
   authors: Goren Gordon, <strong>Samuel Spaulding</strong>, Jacqueline Kory Westlund, Jin Joo Lee, Luke Plummer, Marayna Martinez, Madhurima Das, and Cynthia Breazeal
   tag: affect
-  venue: Proceedings of the 30th AAAI Conference on Artificial Intelligence (AAAI 2016)
+  venue: Proceedings of the 30th AAAI Conference on Artificial Intelligence
+  venue_code: AAAI 2016
   year: 2016
   link:
     url: resources/AAAI2016_SAR.pdf
@@ -55,6 +59,7 @@
   authors: Dan Leyzberg, <strong>Samuel Spaulding</strong>, and Brian Scassellati.
   tag: personalization
   venue: Proceedings of the 9th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2014)
+  venue_code: HRI 2014
   year: 2014
   link:
     url: resources/Personalization_HRI14.pdf
@@ -68,6 +73,7 @@
   authors: Dan Leyzberg, <strong>Samuel Spaulding</strong>, Mariya Toneva, and Brian Scassellati.
   tag: personalization
   venue: Proceedings of the 34th Annual Conference of the Cognitive Science Society (CogSci 2012)
+  venue_code: CogSci 2012
   year: 2012
   link:
     url: resources/CogSci2012.pdf
@@ -81,6 +87,7 @@
   authors: <strong>Samuel Spaulding</strong> and Cynthia Breazeal
   tag: modeling
   venue: Workshop on Mathematical Models, Algorithms, and Human-Robot Interaction (held at RSS 2017)
+  venue_code: Models, Algorithms, and HRI Workshop (RSS 2017)
   year: 2017
   link:
     url: resources/Spaulding_RSS_AlgoHRI.pdf
@@ -93,10 +100,10 @@
   authors: Kory Westlund, J. M., Lee, J., Plummer, L., Faridi, F., Gray, J., Berlin, M., Quintus-Bosz, H., Harmann, R., Hess, M., Dyer, S., dos Santos, K., Adalgeirsson, S., Gordon, G., <strong>Spaulding, S.</strong>, Martinez, M., Das, M., Archie, M., Jeong, S., & Breazeal, C.
   tag: affect
   venue: 11th ACM/IEEE International Conference on Human-Robot Interaction - Video Presentations. (HRI 2016 Video Track)
+  venue_code: HRI 2016 (Video Track)
   year: 2016
   link:
-    url: resources/XXXXX.pdf
-    display: Broken Link!
+    url: resources/Tega_Social_Robot.pdf
   highlight: 1
   awards: Best Video Nominee
 
@@ -107,6 +114,7 @@
   authors: <strong>Samuel Spaulding</strong> and Cynthia Breazeal
   tag: affect
   venue: 2015 AAAI Fall Symposium on Artificial Intelligence for Human-Robot Interaction (AI-HRI 2015)
+  venue_code: AI-HRI 2015
   year: 2015
   link:
     url: resources/Spaulding_AAAI_FSS14.pdf
@@ -117,12 +125,13 @@
   code: W5
   image: keepon_from_movie.png
   description: Preliminary presentation of result from a long-term second-language learning study conducted over 8 weeks at a school in Lexington, MA.
-  authors: Jacqueline Kory Westlund*, Goren Gordon*, <strong>Samuel Spaulding</strong>, Jin Joo Lee, Luke Plummer, Marayna Martinez, Madhurima Das, and Cynthia Breazeal
+  authors: Jacqueline Kory Westlund, Goren Gordon, <strong>Samuel Spaulding</strong>, Jin Joo Lee, Luke Plummer, Marayna Martinez, Madhurima Das, and Cynthia Breazeal
   tag: affect
   venue: Proceedings of New Friends, The 1st International Conference on Social Robots in Therapy and Education
+  venue_code: New Friends 2015
   year: 2015
   link:
-    url: resources/XXXXX.pdf
+    url: resources/New_Friends_2015.pdf
     display: Broken Link!
   highlight: 0
 
@@ -133,6 +142,7 @@
   authors: <strong>Samuel Spaulding</strong> and Cynthia Breazeal
   tag: affect
   venue: HRI Pioneers Workshop (held at HRI 2015)
+  venue_code: HRI Pioneers 2015
   year: 2015
   link:
     url: resources/Spaulding_HRIPioneers15.pdf
@@ -146,6 +156,7 @@
   authors: <strong>Samuel Spaulding</strong> and Cynthia Breazeal
   tag: affect
   venue: 2014 AAAI Fall Symposium on Artificial Intelligence for Human-Robot Interaction (AI-HRI 2014)
+  venue_code: AI-HRI 2014
   year: 2014
   link:
     url: resources/Spaulding_AAAI_FSS14.pdf
@@ -160,6 +171,7 @@
   authors: W. Bradley Knox, <strong>Samuel Spaulding</strong> and Cynthia Breazeal
   tag: lfw
   venue: Proceedings of the 3rd Workshop on Machine Learning for Interactive Systems (held at AAAI 2014)
+  venue_code: MLIS Workshop 2014
   year: 2014
   link:
     url: resources/AAAI_MLIS_14.pdf
@@ -174,6 +186,7 @@
   authors: <strong>Samuel Spaulding</strong>, Cynthia Breazeal
   tag: affect
   venue: Proceedings of the Workshop on Cognitive Architectures for Human-Robot Interaction (held at HRI 2014)
+  venue_code: Cognitive Architecures for HRI Workshop 2014
   year: 2014
   link:
     url: resources/HRI_CogArchWorkshop_14.pdf

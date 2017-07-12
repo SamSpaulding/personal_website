@@ -1,6 +1,6 @@
 - title: Learning Behavior Policies for Interactive Educational Play
   image: tega.png
-  summary: Building robots that model for seamless, educationally optimized educational play.
+  summary: Interactive robots that construct real-time student models and personalized game behaviors for optimized educational play.
   description:
     Autonomous educational robots have the potential to deliver significant benefits via social interaction.
     It is difficult to program robust models of interactive social behavior for educational co-play, in part because the interaction takes place in a high-dimensional state space with noisy state dynamics and sparse rewards. More- over, an effective tutor must balance multiple objectives across different time scales, such as teaching new words, acquiring information about the student to model their knowledge, and keeping the interaction fun and engaging.
@@ -11,10 +11,14 @@
 
 - title: Affect-Aware Robots and Collaborative Storytelling
   image: tega.png
-  summary: Building robots that can sense and understand human emotion to build better models and interact more empathically with children.
+  summary: Robots that can sense and understand human emotion to build better models and interact more empathically with children.
   description:
-    We show that compared to tablet games, social robots induce greater emotional expressivity in children,
-    and demonstrate that this expressivity can be measured and analyzed to train more accurate student models.
+    In a educational game interaction, we showed that, compared to interacting with the tablet games alone, children exhibited greater 
+    emotional expressivity when playing the game with a robot. We also demonstrated that this expressivity can be measured and used as training data to develop more accurate models of student knowledge.
+    We also deployed an affect-sensing social robot system in a local classroom for 2 months, where 34 children played a second-language learning game
+    with the robot over 8 interactions. After each interaction the robot would adapt its choice of emotionally supportive responses to some children. 
+    Children who interacted with the affectively personalized robot maintain high valence over the course of the study, 
+    suggesting that appropriate emotional behavioral in robots is a key component to maintaining long-term interaction.    
   collaborators: Samuel Spaulding, Cynthia Breazeal
   tag: affect  
 

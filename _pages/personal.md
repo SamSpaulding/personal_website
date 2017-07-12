@@ -6,13 +6,16 @@ sitemap: false
 permalink: /personal.html
 ---
 
-Outside of school and work, I'm a big fan of trivia, in which category I include wordplay, coincidences, facts, interesting historical stories, and other random tidbits.
+Outside of school and work, I'm a big fan of trivia, in which category I include wordplay, coincidences, facts, historical stories, and other interesting or amusing pieces of information.
 
-I play on MIT's Quiz Bowl team, a competitive intercollegiate academic quiz team, and I have occasionally been known to [answer questions](images/sam_images/trebek.jpg) for money [on TV questions](images/sam_images/millionaire.jpg). 
+I previously played on MIT and Yale's Quiz Bowl teams in a competitive intercollegiate academic quiz league, and I was briefly known for my ability to [answer questions](images/trebek.jpg) for money [on TV](images/millionaire.jpg). 
 
-I play less competitively with various bar trivia teams around town, sometimes it pays for my tab. I like to explore and talk about different aspects of culture: Books, Movies, Music, Video Games, Memes, Television.
-	
-Some of my favorite authors are Dave Eggers, David Foster Wallace, and Haruki Murakami.
-You can sometimes find me playing video games (mostly puzzle games or RTS's like Starcraft II) and board games (recently Cosmic Encounter, Munchkin, and Bang!)
-	
-I also like to do things outside including, but not limited to: hiking, running, camping, playing frisbee, climbing on playgrounds, exploring interesting buildings, or just sitting around enjoying nice weather.
+I love to read, both fiction and non-fiction. Some of my favorite authors are Tom Robbins and Douglas Hofstadter, and I especially enjoy historical biographies.
+
+I also like to do things outside including, but not limited to: hiking, running, camping, climbing, exploring interesting spaces, or just sitting around enjoying nice weather.
+
+I built this site based partly on the excellent template provided by the <a href="http://www.allanlab.org/aboutwebsite.html">Allen Lab</a> at Leiden University. 
+
+
+<img src="images/young_robot.jpg" width="35%" height="35%" style="float: left"> 
+<img src="images/shenandoah.jpg" width="35%" height="35%" style="float: right">
